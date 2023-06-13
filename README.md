@@ -1,3 +1,16 @@
+<div id="badges">
+  <a href="[your-linkedin-URL](https://www.linkedin.com/in/dhruv-deshmukh-46aa48192/)">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/Drucoder/">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode Badge"/>
+  </a>
+  <a href="https://www.kaggle.com/dhruvdeshmukh">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
+  </a>
+</div>
+
+
 - 👋 Hi, I’m @Dhruv88 an undergrad at IIT Bhilai pursuing B.Tech in Computer Science and Engineering.
 - 👀 I’m interested in developing good software that uses some new tech.
 - 🌱 I’m currently learning Machine Learning, Computer Vision, Parallel Programming and 
