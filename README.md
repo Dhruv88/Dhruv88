@@ -11,7 +11,7 @@
 </div>
 
 
-- 👋 Hi, I’m @Dhruv88 an undergrad at IIT Bhilai pursuing B.Tech in Computer Science and Engineering.
+- 👋 Hi, I’m @Dhruv88 a fresh graduate from IIT Bhilai with B.Tech in Computer Science and Engineering.
 - 👀 I’m interested in developing good software that uses some new tech.
 - 🌱 Interested in Machine Learning, Graph Neural Networks, and Distributed Computing
 - 💞️ I’m looking to collaborate on the interesting projects in the above domains.
