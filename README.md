@@ -11,9 +11,9 @@
 </div>
 
 
-- 👋 Hi, I’m @Dhruv88 a fresh graduate from IIT Bhilai with B.Tech in Computer Science and Engineering.
-- 👀 I’m interested in developing good software that uses some new tech.
-- 🌱 Interested in Machine Learning, Graph Neural Networks, and Distributed Computing
+- 👋 Hi, I’m @Dhruv88 a Research Fellow at Microsoft Research India.
+- 👀 Currently I am working making LLM inference faster.
+- 🌱 My past work include design space exploration for software systems, making efficient and accurate distributed graph neural networks
 - 💞️ I’m looking to collaborate on the interesting projects in the above domains.
 
 
